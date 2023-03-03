@@ -3,8 +3,8 @@ process.stdout.write("prompt > ");
 const pwd = require('./pwd');
 const ls = require('./ls')
 // if a user enters 'pwd' as an argument, we can then call it
-pwd();
-ls()
+pwd()
+// ls()
 
 
 
